@@ -1,6 +1,6 @@
 {
   "name": "@przeslijmi/is-empty",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Modern JavaScript utility to check if a value is empty.",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
