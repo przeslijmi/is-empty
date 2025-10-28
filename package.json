@@ -26,5 +26,11 @@
     "@types/node": "^24.9.1",
     "typescript": "^5.9.3",
     "vitest": "^4.0.4"
-  }
+  },
+  "files": [
+    "dist/",
+    "README.md",
+    "CHANGELOG.md",
+    "package.json"
+  ]
 }
