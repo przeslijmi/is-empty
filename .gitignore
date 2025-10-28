@@ -1,0 +1,45 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+coverage/
+.vitest/
+
+# Logs and temp files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+*.tmp
+
+# TypeScript
+*.tsbuildinfo
+
+# Environment files
+.env
+.env.*
+
+# IDE / editor folders
+.vscode/
+.idea/
+.DS_Store
+
+# OS-specific
+Thumbs.db
+
+# Test output
+coverage/
+test-results.xml
+
+# Package manager artifacts
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Local linking
+*.tgz
+
+# Misc
+*.bak

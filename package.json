@@ -1,0 +1,30 @@
+{
+  "name": "@przeslijmi/is-empty",
+  "version": "1.0.0",
+  "description": "Modern JavaScript utility to check if a value is empty.",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest"
+  },
+  "keywords": [
+    "is-empty",
+    "utility",
+    "validation",
+    "check",
+    "empty"
+  ],
+  "author": "Karol Nowakowski <przeslijmi@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/przeslijmi/is-empty"
+  },
+  "devDependencies": {
+    "@types/node": "^24.9.1",
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.4"
+  }
+}
